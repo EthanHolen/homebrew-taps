@@ -11,4 +11,4 @@ can add the ability to install it by typing
 
 | Name     | Description                                                                          | Link                                   |
 | -------- | ------------------------------------------------------------------------------------ | -------------------------------------- |
-| rdme-gen | Quickly generates a readme file in your current repository, with options to autofill | https://github.com/EthanHolen/rdme-gen |
+| rdme-gen | Quickly generates a readme file in your current repository, with options to autofill. | https://github.com/EthanHolen/rdme-gen |

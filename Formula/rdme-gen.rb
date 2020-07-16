@@ -2,13 +2,13 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class rdmeGen < Formula
+class RdmeGen < Formula
     include Language::Python::Virtualenv
-    desc "Converts text to format for mocking spongebob meme"
+    desc "Generates a readme file in your current repository."
     homepage "https://github.com/EthanHolen/rdme-gen"
-    url "https://github.com/EthanHolen/rdme-gen/archive/v1.0.0.tar.gz"
-    sha256 "4433559db0185ff1af90d8b7846f304943c5f508af09479cf8cd83743dc356bb"
-    version "1.0.0"
+    url "https://github.com/EthanHolen/rdme-gen/archive/v1.0.1.tar.gz"
+    sha256 "e985203c768f0bfa5888ce01362cfc2ce50e2e52157f6b2c7a7ab9ef0478a609"
+    version "1.0.1"
   
     depends_on "python"
   

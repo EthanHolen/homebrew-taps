@@ -6,9 +6,9 @@ class RdmeGen < Formula
     include Language::Python::Virtualenv
     desc "Generates a readme file in your current repository."
     homepage "https://github.com/EthanHolen/rdme-gen"
-    url "https://github.com/EthanHolen/rdme-gen/archive/v1.0.1.tar.gz"
-    sha256 "e985203c768f0bfa5888ce01362cfc2ce50e2e52157f6b2c7a7ab9ef0478a609"
-    version "1.0.1"
+    url "https://github.com/EthanHolen/rdme-gen/archive/v1.0.2.tar.gz"
+    sha256 "97c4c079b1b4c58cfbd9f25b52b221abbde1c6352d143726ac0eca30f6660503"
+    version "1.0.2"
   
     depends_on "python"
   

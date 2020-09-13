@@ -7,7 +7,7 @@ class RdmeGen < Formula
     desc "Generates a readme file in your current repository."
     homepage "https://github.com/EthanHolen/rdme-gen"
     url "https://github.com/EthanHolen/rdme-gen/archive/v1.0.3.tar.gz"
-    sha256 "97c4c079b1b4c58cfbd9f25b52b221abbde1c6352d143726ac0eca30f6660503"
+    sha256 "260013aefaf1e42071d1384842b26c5eea8b68c9abb1d99eaccc6e941ac5c150"
     version "1.0.3"
 
     depends_on "python"

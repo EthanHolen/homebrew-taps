@@ -9,6 +9,7 @@ can add the ability to install it by typing
 
 ## Software in this tap
 
-| Name     | Description                                                                          | Link                                   |
-| -------- | ------------------------------------------------------------------------------------ | -------------------------------------- |
-| rdme-gen | Quickly generates a readme file in your current repository, with options to autofill. | https://github.com/EthanHolen/rdme-gen |
+| Name         | Description                                                                           | Link                                       |
+| ------------ | ------------------------------------------------------------------------------------- | ------------------------------------------ |
+| rdme-gen     | Quickly generates a readme file in your current repository, with options to autofill. | https://github.com/EthanHolen/rdme-gen     |
+| game-of-life | Graphical animation of Conways Game of life for homebrew.                             | https://github.com/EthanHolen/game-of-life |
